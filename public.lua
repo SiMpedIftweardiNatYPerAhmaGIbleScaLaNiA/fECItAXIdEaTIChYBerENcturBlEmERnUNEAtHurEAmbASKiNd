@@ -25,7 +25,7 @@ Last Updated:
 getgenv().GeneralReach = true
 getgenv().AuraReach = false
 
---Reach Visuals
+--Reach Configuration
 
 ReachColor = Color3.fromRGB(0, 255, 255)
 ReachSize = 50
@@ -33,6 +33,10 @@ ReachLineThickness = 0.3
 ReachTransparency = 0.8
 ReachSurfaceTransparency = 0
 ReachSurfaceColor = Color3.fromRGB(0, 255, 255)
+
+--Aura Configuration
+
+AuraSize = 90
 
 --[[Loader]]--
 
